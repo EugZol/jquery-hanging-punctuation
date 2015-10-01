@@ -1,0 +1,45 @@
+p, blockquote {
+  text-align:justify;
+}
+
+.left-quote{
+  margin-left: -.6em;
+}
+.before-quote{
+  margin-right: .6em;
+}
+
+.left-bracket{
+  margin-left: -.45em;
+}
+.before-bracket{
+  margin-right: .45em;
+}
+
+.left-double-ears{
+  margin-left: -.45em;
+}
+.before-double-ears{
+  margin-right: .45em;
+}
+
+.left-double-low-ears{
+  margin-left: -.45em;
+}
+.before-double-low-ears{
+  margin-right: .45em;
+}
+
+.left-single-low-ear{
+  margin-left: -.29em;
+}
+.before-single-low-ear{
+  margin-right: .29em;
+}
+
+.left-single-ear{
+  margin-left: -.29em;
+}
+.before-single-ear{
+  margin-right: .29em;
+}
