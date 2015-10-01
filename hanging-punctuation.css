@@ -1,3 +1,7 @@
+// Author: Eugene Zolotarev
+// https://github.com/eugzol/jquery-hanging-punctuation
+// MIT License
+
 p, blockquote {
   text-align:justify;
 }
